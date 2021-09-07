@@ -1,6 +1,6 @@
 # 👋 Hey there, Rushabh here!
 
-## 📌&nbsp; About Me
+### 📌&nbsp; About Me
 
 - 👦 I'm a Computer Science undergraduate from Mumbai, India 🇮🇳
 
@@ -16,7 +16,7 @@
 
 <br />
 
-## 🛠️&nbsp; Tools and Technologies
+### 🛠️&nbsp; Tools and Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-ef7733?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-254bdd?logo=css3&logoColor=white&style=for-the-badge)
@@ -36,7 +36,7 @@
 
 <br />
 
-## 🔗&nbsp; Find Me
+### 🔗&nbsp; Find Me
 
 [![codepen](https://img.shields.io/badge/-rushabhhere-a529f1?logo=codepen&style=flat-square)][codepen]
 &nbsp;&nbsp;
