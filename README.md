@@ -37,7 +37,7 @@
 &nbsp;&nbsp;
 [![linkedin](https://img.shields.io/badge/-rushabh--javeri-0a66c2?logo=linkedin&style=flat-square)][linkedin]
 &nbsp;&nbsp;
-[![gmail](https://img.shields.io/badge/-rushabh--javeri-0a66c2?logo=gmail&logoColor=white&style=flat-square)][email]
+[![gmail](https://img.shields.io/badge/-javeri.rushabh45-0a66c2?logo=gmail&logoColor=white&style=flat-square)][email]
 &nbsp;&nbsp;
 [![twitter logo](https://img.shields.io/badge/-12ushabh-1d9bf0?logo=twitter&style=flat-square&logoColor=white)][twitter]
 
