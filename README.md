@@ -3,15 +3,10 @@
 ### 📌&nbsp; About Me
 
 - 👦 I'm a Computer Science undergraduate from Mumbai, India 🇮🇳
-
 - 🌱 I’m currently learning **Firebase**
-
 - 👯 I’m looking to collaborate on anything meaningful!
-
 - 📫 Feel free to contact me: [javeri.rushabh45@gmail.com][email]
-
 - 😄 Pronouns: he/him
-
 - ⚡ My hobbies include cycling, basketball and reading
 
 <br />
