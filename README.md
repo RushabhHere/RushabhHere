@@ -3,7 +3,6 @@
 ### 📌&nbsp; About Me
 
 - 👦 I'm a Computer Science undergraduate from Mumbai, India 🇮🇳
-- 🌱 I’m currently learning **Firebase**
 - 👯 I’m looking to collaborate on anything meaningful!
 - 📫 Feel free to contact me: [javeri.rushabh45@gmail.com][email]
 - 😄 Pronouns: he/him
@@ -20,7 +19,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-9d56f7?logo=figma&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-15b3c0?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/-npm-c53635?logo=npm&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-fd6c35?logo=postman&logoColor=white&style=for-the-badge)
 <br />
 ![C++](https://img.shields.io/badge/-C++-6295cb?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-ea2728?logo=java&logoColor=white&style=for-the-badge)
