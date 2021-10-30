@@ -22,9 +22,11 @@
 <br />
 ![C++](https://img.shields.io/badge/-C++-6295cb?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-ea2728?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3674a9?logo=python&logoColor=white&style=for-the-badge)
 <br />
 ![Git](https://img.shields.io/badge/-Git-e44c30?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-1ba8ee?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![DataGrip](https://img.shields.io/badge/-DataGrip-f056e0?logo=datagrip&logoColor=white&style=for-the-badge)
 ![WSL](https://img.shields.io/badge/-WSL-02b35a?logo=linux&logoColor=white&style=for-the-badge)
 
 <br />
