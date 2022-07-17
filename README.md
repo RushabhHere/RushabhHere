@@ -22,6 +22,7 @@
 <br />
 ![Figma](https://img.shields.io/badge/-Figma-9d56f7?logo=figma&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-15b3c0?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/-Prisma-2d3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-f38110?logo=firebase&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-8976ff?logo=vite&logoColor=white&style=for-the-badge)
 <br />
@@ -37,6 +38,7 @@
 ![DataGrip](https://img.shields.io/badge/-DataGrip-f056e0?logo=datagrip&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-f76935?logo=postman&logoColor=white&style=for-the-badge)
 ![WSL](https://img.shields.io/badge/-WSL-02b35a?logo=linux&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white&style=for-the-badge)
 
 <br />
 
