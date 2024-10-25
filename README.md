@@ -5,7 +5,7 @@
 - 👦 I'm a Computer Science undergraduate from Mumbai, India 🇮🇳
 - 👯 I’m looking to collaborate on anything meaningful!
 - 🌱 I'm currently learning **Next.js**
-- 📫 Feel free to contact me: [javeri.rushabh45@gmail.com][email]
+- 📫 Feel free to contact me: [rushabhjaveri@duck.com][email]
 - 😄 Pronouns: he/him
 - ⚡ My hobbies include cycling, basketball and reading
 
@@ -52,7 +52,7 @@
 
 <!-- Links -->
 
-[email]: mailto:javeri.rushabh45@gmail.com
+[email]: mailto:rushabhjaveri@duck.com
 [codepen]: https://www.codepen.io/rushabhhere
 [linkedin]: https://www.linkedin.com/in/rushabh-javeri
 [twitter]: https://www.twitter.com/12ushabh
